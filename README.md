@@ -40,11 +40,9 @@
 
 **1. Clone the repository**
 git clone https://github.com/Mehta-Santanu/Santanu_25SCS1003004621_IILM-GN-
-```
 
 **2. Install dependencies**
 pip install ultralytics opencv-python speechrecognition playsound==1.2.2 numpy
-```
 
 **3. Run the system**
 python main.py
