@@ -50,8 +50,6 @@ pip install ultralytics opencv-python speechrecognition playsound==1.2.2 numpy
 python main.py
 ```
 
----
-
 ## 🎮 Controls
 
 | Action | Method |
@@ -60,16 +58,13 @@ python main.py
 | Stop the system | ✋ Show **open palm** for ~1 second |
 | Exit the program | ⌨️ Press **`Q`** |
 
----
 
 ## 📂 Project Structure
-
-```
 AI Defence and Detect Intrusion/
-main.py
-alarm.wav
-intruder_images
-intruder_log.txt
+main.py/
+alarm.wav/
+intruder_images/
+intruder_log.txt/
 README.md
 ```
 
