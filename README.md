@@ -65,13 +65,12 @@ python main.py
 ## 📂 Project Structure
 
 ```
-ai-defence-ids/
-│
-├── main.py              # Entry point — runs the detection system
-├── alarm.wav            # Audio alert played on intruder detection
-├── intruder_images/     # Auto-saved frames of detected intruders
-├── intruder_log.txt     # Timestamped log of all detection events
-└── README.md            # Project documentation
+AI Defence and Detect Intrusion/
+main.py
+alarm.wav
+intruder_images
+intruder_log.txt
+README.md
 ```
 
 ---
@@ -106,4 +105,4 @@ B.Tech CSE | AI & Cybersecurity Enthusiast
 
 If you found this project useful, please consider giving it a **star** — it helps others discover it and motivates further development!
 
-[![Star this repo](https://img.shields.io/github/stars/Angshul/ai-defence-ids?style=social)](https://github.com/Mehta-Santanu)
+[![Star this repo](https://github.com/Mehta-Santanu)
