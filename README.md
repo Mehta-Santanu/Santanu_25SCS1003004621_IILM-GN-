@@ -89,7 +89,7 @@ README.md
 
 ## 👨‍💻 Author
 
-**Angshul**  
+**Santanu Mehta**  
 B.Tech CSE | AI & Cybersecurity Enthusiast
 
 ---
